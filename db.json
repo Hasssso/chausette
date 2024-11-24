@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Cozy Socks",
-      "image": "/images/socks_blue.jpg",
+      "image": "socks_blue.jpg",
       "price": 12.99,
       "description": "Soft and warm socks for winter.",
       "stock": 5
@@ -11,7 +11,7 @@
     {
       "id": "2",
       "name": "Sporty Socks",
-      "image": "/images/socks_green.jpg",
+      "image": "socks_green.jpg",
       "price": 9.99,
       "description": "Comfortable socks for athletes.",
       "stock": 3
